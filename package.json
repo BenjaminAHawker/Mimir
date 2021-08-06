@@ -4,7 +4,7 @@
   "description": "Personal Discord Server Bot",
   "main": "bot.ts",
   "scripts": {
-    "dev" : "nodemon dist/bot.js",
+    "dev" : "nodemon dist/main.js",
     "watch": "tsc -w",
     "build": "tsc --build",
     "clean": "tsc --build --clean"
